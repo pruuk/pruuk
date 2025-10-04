@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pruuk
 - 👀 I’m interested in billiards, hiking, reading
-- 🌱 I’m currently learning Python & Rust
-- 💞️ I’m looking to collaborate on my own version of the Evennia MUD
+- 🌱 I’m currently learning Python & Go
+- 💞️ I’m looking to collaborate on my own version of the Go MUD
 - 📫 How to reach me - email me at calkdavis@gmail.com
 
 <!---
